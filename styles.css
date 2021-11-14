@@ -1,1 +1,27 @@
 /* Write your CSS here! */
+
+.section {
+    width: 500px;
+    margin-left: 25px;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#testP {
+color: green;
+}
+
+.funParagraph {
+    color: green
+}
+
+img {
+    padding: 5px;
+}
